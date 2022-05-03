@@ -5,4 +5,4 @@ This is just a practice to implement this dark mode feature in my portfolio proj
 Simple css and js project to toggle the web page between dark and light theme.
 
 Reference:
-Web Dev Simplified https://youtu.be/RiWxhm5ZdFM
+Web Dev Simplified --> https://youtu.be/RiWxhm5ZdFM
